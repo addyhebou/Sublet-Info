@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Sublet-Info/static/css/main.7f8c17e1.chunk.css",
+    "main.js": "/Sublet-Info/static/js/main.d8403ae7.chunk.js",
+    "main.js.map": "/Sublet-Info/static/js/main.d8403ae7.chunk.js.map",
+    "runtime-main.js": "/Sublet-Info/static/js/runtime-main.fc59b230.js",
+    "runtime-main.js.map": "/Sublet-Info/static/js/runtime-main.fc59b230.js.map",
+    "static/js/2.2d9b8054.chunk.js": "/Sublet-Info/static/js/2.2d9b8054.chunk.js",
+    "static/js/2.2d9b8054.chunk.js.map": "/Sublet-Info/static/js/2.2d9b8054.chunk.js.map",
+    "static/js/3.61862cfb.chunk.js": "/Sublet-Info/static/js/3.61862cfb.chunk.js",
+    "static/js/3.61862cfb.chunk.js.map": "/Sublet-Info/static/js/3.61862cfb.chunk.js.map",
+    "index.html": "/Sublet-Info/index.html",
+    "static/css/main.7f8c17e1.chunk.css.map": "/Sublet-Info/static/css/main.7f8c17e1.chunk.css.map",
+    "static/js/2.2d9b8054.chunk.js.LICENSE.txt": "/Sublet-Info/static/js/2.2d9b8054.chunk.js.LICENSE.txt",
+    "static/media/creditReport.59739e16.svg": "/Sublet-Info/static/media/creditReport.59739e16.svg",
+    "static/media/rent.b10b8b29.jpg": "/Sublet-Info/static/media/rent.b10b8b29.jpg",
+    "static/media/securty.1126b9cb.jpg": "/Sublet-Info/static/media/securty.1126b9cb.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fc59b230.js",
+    "static/js/2.2d9b8054.chunk.js",
+    "static/css/main.7f8c17e1.chunk.css",
+    "static/js/main.d8403ae7.chunk.js"
+  ]
+}
