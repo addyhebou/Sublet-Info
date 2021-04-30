@@ -12,7 +12,7 @@ export default function Steps() {
                 </div>
                 <div className = "bulletInfo">
                     <strong>Roommate Consulations</strong>
-                    <p>You’ll get to schedule a consultation via this <a href = {"https://calendly.com/addyhebou/15min"}>Calendly link</a> by May 5, 2021 to meet my roommates virtually to discuss, ask, and answer questions relating compatibility, lifestyle, responsibilities, personality. If anyone would like to schedule a physical tour complying with COVID-19 regulations, feel free to let me know.</p>
+                    <p>You’ll get to schedule a consultation via this <a href = {"https://calendly.com/addyhebou/15min"} target="_blank">Calendly link</a> by May 5, 2021 to meet my roommates virtually to discuss, ask, and answer questions relating compatibility, lifestyle, responsibilities, personality. If anyone would like to schedule a physical tour complying with COVID-19 regulations, feel free to let me know.</p>
                 </div>
             </div>
 
