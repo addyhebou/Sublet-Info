@@ -1,0 +1,62 @@
+.App {
+  text-align: center;
+}
+
+.Body, .Footer{
+  width: 524px;
+  margin: auto;
+}
+
+.Footer{
+  margin-bottom: 20px;
+}
+
+.bullet{
+  border-radius: 100%;
+  width: 31px;
+  height: 31px;
+  background: #FFA06A;
+  margin-right: 12px;
+  padding: 5px;
+}
+
+.bulletInfo{
+  /* background-color: red; */
+  margin-left: 12px;
+}
+
+.Header {
+  background: #A081AD;
+  padding: 44px;
+} 
+
+h1{
+  font-family: SF Pro Display;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 43px;
+  /* identical to box height */
+
+
+  color: #FFFFFF;
+}
+
+/* Thank you so much for your interest in “Addy’s Room”, the summer sublet room that will run from June 7, 2021 - August 31, 2021. */
+
+
+p{
+  font-family: SF Pro Display;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 17px;
+  color: #000000;
+}
+
+.Step{
+  display: flex;
+  justify-content: space-evenly;
+  flex-direction: row;
+  margin: 17px;
+}
