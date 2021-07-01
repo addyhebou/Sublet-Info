@@ -15,7 +15,8 @@ export default function Steps() {
                     <p>You’ll get to schedule a consultation via this  
                         <a href = {"https://calendly.com/addyhebou/15min"} target="_blank"> Calendly link </a> 
                         by July 15, 2021 to discuss, ask, and answer questions 
-                        relating compatibility, lifestyle, responsibilities, personality. 
+                        relating compatibility, lifestyle, responsibilities, personality, 
+                        as well as viewing a video tour of the apartment. 
                         If anyone would like to schedule a physical tour complying with COVID-19 regulations, 
                         feel free to let me know.</p>
                 </div>
