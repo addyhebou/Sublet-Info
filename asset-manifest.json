@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Sublet-Info/static/css/main.7f8c17e1.chunk.css",
-    "main.js": "/Sublet-Info/static/js/main.88faf47f.chunk.js",
-    "main.js.map": "/Sublet-Info/static/js/main.88faf47f.chunk.js.map",
+    "main.js": "/Sublet-Info/static/js/main.ec4079db.chunk.js",
+    "main.js.map": "/Sublet-Info/static/js/main.ec4079db.chunk.js.map",
     "runtime-main.js": "/Sublet-Info/static/js/runtime-main.fc59b230.js",
     "runtime-main.js.map": "/Sublet-Info/static/js/runtime-main.fc59b230.js.map",
     "static/js/2.2d9b8054.chunk.js": "/Sublet-Info/static/js/2.2d9b8054.chunk.js",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.fc59b230.js",
     "static/js/2.2d9b8054.chunk.js",
     "static/css/main.7f8c17e1.chunk.css",
-    "static/js/main.88faf47f.chunk.js"
+    "static/js/main.ec4079db.chunk.js"
   ]
 }
