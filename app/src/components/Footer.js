@@ -4,7 +4,7 @@ export default function Footer() {
     return (
         <div className = "Footer">
             <p><strong>NOTE: </strong>By applying for this room, you are not guaranteed the apartment, but only if you are cleared, accepted, and selected from the credit reports/background checks and roommate consultations.</p>
-            <strong>APPLICATION DEADLINE: July 15</strong>
+            <strong>APPLICATION DEADLINE: July 27</strong>
         </div>
     )
 };
